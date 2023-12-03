@@ -1,0 +1,20 @@
+nvm install 20 -> instala a versao
+nvm list
+
+lts - long term support 
+
+nvm install --lts
+
+nvm use 20 -> usa a que ja esta instalada na minha maquina
+
+
+nvm alias default 18 -> meu computador vai usar por padrao o 18/define a versao padrao do node.js para ser a 18
+
+
+criar o .nvmrc - com a versao desejada
+
+node -v > nvmrc - salva a versao apropriada para aquele projeto
+
+
+npm init -y - abre um projeto json
+ 
