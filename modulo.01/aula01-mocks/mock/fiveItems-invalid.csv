@@ -1,6 +1,6 @@
-id, name, profesion, age
-1, gi, dev, 11
-2, gi2, dev2, 12
-3, ma, data, 21
-4, ana, mais, 34
-5, tomas, manager, 23
+id,name,profession,age
+1,gi,dev,11
+2,gi2,dev2,12
+3,ma,data,21
+4,ana,mais,34
+5,tomas,manager,23

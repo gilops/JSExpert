@@ -1,7 +1,6 @@
 {
   "name": "aula01-mocks",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "node index.test.js"
@@ -11,5 +10,6 @@
   },
   "keywords": [],
   "author": "Gi",
-  "license": "ISC"
+  "license": "ISC",
+  "description": ""
 }
