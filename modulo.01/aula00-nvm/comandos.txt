@@ -13,7 +13,7 @@ nvm alias default 18 -> meu computador vai usar por padrao o 18/define a versao 
 
 criar o .nvmrc - com a versao desejada
 
-node -v > nvmrc - salva a versao apropriada para aquele projeto
+node -v > nvmrc - salva a versao apropriada para aquele projeto, sem precisar criar manualmente
 
 
 npm init -y - abre um projeto json
